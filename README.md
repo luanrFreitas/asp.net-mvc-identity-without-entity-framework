@@ -5,3 +5,5 @@ For more information about this tutorial you can visit my site:
 https://bytutorial.com/blogs/asp-net-mvc/aspnet-mvc-identity-without-using-entity-framework
 
 Leave a comment or feedback if there is an enquiry.
+
+https://www.c-sharpcorner.com/article/custom-authentication-with-asp-net-mvc/
